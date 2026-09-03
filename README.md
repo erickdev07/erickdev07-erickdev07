@@ -1,5 +1,3 @@
-# erickdev07-erickdev07
-
 Olá! Eu sou o Erick 👋
 
 Estudante de Análise e Desenvolvimento de Sistemas
