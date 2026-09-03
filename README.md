@@ -29,12 +29,6 @@ Gosto de aprender na prática, criando projetos e buscando evoluir um pouco a ca
 
 📂 Projetos
 
-📝 Sistema de Notas em Python
-
-Sistema desenvolvido em Python para gerenciamento de notas.
-
-🔗 Acessar projeto ## 📂 Projetos
-
 ### 📝 Sistema de Notas em Python
 
 Sistema desenvolvido em Python para gerenciamento de notas.
