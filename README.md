@@ -35,7 +35,6 @@ Sistema desenvolvido em Python para gerenciamento de notas.
 
 🔗 [Ver projeto](https://github.com/erickdev07/sistema-notas-python)
 
-### 💻 Projeto de Software
 
 💻 Outros projetos
 
