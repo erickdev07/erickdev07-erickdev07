@@ -33,7 +33,19 @@ Gosto de aprender na prática, criando projetos e buscando evoluir um pouco a ca
 
 Sistema desenvolvido em Python para gerenciamento de notas.
 
-🔗 Acessar projeto
+🔗 Acessar projeto ## 📂 Projetos
+
+### 📝 Sistema de Notas em Python
+
+Sistema desenvolvido em Python para gerenciamento de notas.
+
+🔗 [Ver projeto](https://github.com/erickdev07/sistema-notas-python)
+
+### 💻 Projeto de Software
+
+Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas.
+
+🔗 [Ver projeto](SEU-LINK-AQUI)
 
 💻 Outros projetos
 
