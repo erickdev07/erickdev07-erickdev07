@@ -67,3 +67,4 @@ Construir uma base sólida em programação e desenvolvimento de software, evolu
 📫 Contato
 
 GitHub: @erickdev07
+LinkedIn: [Erick Barreto](https://www.linkedin.com/in/erick-barreto-388737403?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
