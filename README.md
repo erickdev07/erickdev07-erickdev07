@@ -43,10 +43,6 @@ Sistema desenvolvido em Python para gerenciamento de notas.
 
 ### 💻 Projeto de Software
 
-Projeto desenvolvido durante minha formação em Análise e Desenvolvimento de Sistemas.
-
-🔗 [Ver projeto](SEU-LINK-AQUI)
-
 💻 Outros projetos
 
 Estou constantemente desenvolvendo novos projetos para colocar em prática o que venho aprendendo.
